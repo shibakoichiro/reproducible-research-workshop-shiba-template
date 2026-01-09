@@ -1,0 +1,13 @@
+project:
+  type: manuscript
+
+manuscript:
+  article: index.qmd
+
+format:
+  html:
+    toc: true
+  docx: default
+
+execute:
+  freeze: auto

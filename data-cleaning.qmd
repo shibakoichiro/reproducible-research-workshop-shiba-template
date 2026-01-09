@@ -1,0 +1,58 @@
+---
+title: "Data Cleaning"
+author: "YOUR NAME"
+date: today
+format: html
+---
+
+## Overview
+
+This document loads and cleans the NHANES data for analysis.
+
+## Setup
+
+```{r}
+#| label: setup
+#| message: false
+
+library(tidyverse)
+library(here)
+```
+
+## Load Data
+
+```{r}
+#| label: load-data
+
+# Load the raw data
+# TODO: Add data loading code during workshop
+```
+
+## Data Cleaning
+
+```{r}
+#| label: clean-data
+
+# TODO: Add data cleaning steps during workshop
+# - Select relevant variables
+# - Handle missing values
+# - Create derived variables
+# - Apply inclusion/exclusion criteria
+```
+
+## Save Cleaned Data
+
+```{r}
+#| label: save-data
+
+# TODO: Save the cleaned dataset
+# write_csv(data_clean, here("data", "nhanes_clean.csv"))
+```
+
+## Summary
+
+```{r}
+#| label: data-summary
+
+# TODO: Add summary of cleaned data
+```
