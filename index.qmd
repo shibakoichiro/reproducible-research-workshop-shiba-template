@@ -4,10 +4,6 @@ author:
   - name: "YOUR NAME"
     affiliations:
       - name: Boston University School of Public Health
-format:
-  html: default
-  docx: default
-bibliography: references.bib
 ---
 
 ## Abstract

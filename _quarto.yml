@@ -9,5 +9,8 @@ format:
     toc: true
   docx: default
 
+bibliography: references.bib
+csl: vancouver.csl
+
 execute:
   freeze: auto
